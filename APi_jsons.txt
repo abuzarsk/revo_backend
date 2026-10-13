@@ -1,0 +1,43 @@
+Company Signup Json
+ {
+        "name": "Company Name",
+        "email": "company@example.com",
+        "phone": "1234567890",
+        "password": "password",
+        "logo": "https://example.com/logo.png",
+        "alias": "company",
+        "size": "100",
+        "group_link": "https://example.com/group",
+        "slot_in_a_month": "10",
+        "description": "This is a company"
+ }
+
+Mediator Signup Json
+{
+        "name": "Company Name",
+        "email": "company@example.com",
+        "phone": "1234567890",
+        "password": "password",
+        "profile_picture": "https://example.com/profile.png",
+        "alias": "mediator",
+        "size": "100",
+        "group_link": "https://example.com/group",
+        "slot_in_a_month": "10",
+        "description": "This is a mediator"
+}
+
+User Signup Json
+{
+        "name": "Company Name",
+        "email": "company@example.com",
+        "phone": "1234567890",
+        "password": "password",
+}
+
+
+Login Json
+{
+    "emailormobile":"EMAIL",//"PHONE"
+    "password":"1",
+    "value":"abuzarshaikh92@gmail.com"
+}

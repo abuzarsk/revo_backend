@@ -1,0 +1,6 @@
+/vendor/
+/storage/service-account.json
+/storage/google/service-account.json
+*.log
+.env
+.DS_Store
